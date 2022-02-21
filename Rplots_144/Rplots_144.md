@@ -8,7 +8,7 @@
 - Data used post cleaner: *handrit_swedish_aa_stopword.csv* version *0705b269*
 - Graph script: *graph_a.R* version *168ab97c*
 
-# Additional data about Rplots_144.md
+# Additional data about Rplots_144.pdf
 ```
 marie@marie-macbookpro121:~/Documents/libralinked$ sh cleaner_justa.sh 
 Your number of raw before any cleaning is:
