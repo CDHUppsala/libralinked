@@ -16,8 +16,8 @@ This graph displays the data about the keyword search "Swedish". We removed the 
 ## Process
 - Folder version: f77db8be
 - Stopword filter used: ^handrit|^Browse|^Home|^Hejm|Search$|^About|^Statisti|«|»|^$
-- File for stopword version: [stopword](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/stopword)
-- Date filter: [Stopdate](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/Stopdate)
+- File for stopword version: [stopwords](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/stopwords)
+- Date filter: [Stopdates](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/Stopdates)
 - Cleaner script used: [cleaner_a.sh](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/cleaner_a.sh)
 - Graph script: [graph_a.R](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/graph_a.R)
 
@@ -28,7 +28,7 @@ If you want to regenerate the graph:
 1. Checkout git folder at the Folder version writen above.
 2. Run:
 ```sh cleaner_a.sh```
-3. Open ``` graph_a.R``` in Rstudio, run the script. 
+3. Open ``` graph_a.R``` in Rstudio, run the script. Output a pdf with size A4
 
 
 
