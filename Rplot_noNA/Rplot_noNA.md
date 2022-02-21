@@ -17,7 +17,7 @@ This graph displays the data about the keyword search "Swedish". We removed the 
 - Folder version: f77db8be
 - Stopword filter used: ^handrit|^Browse|^Home|^Hejm|Search$|^About|^Statisti|«|»|^$
 - File for stopword version: [stopwords](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/stopwords)
-- Date filter: [Stopdates](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/Stopdates)
+- Date filter: [Stopdates](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/stopdates)
 - Cleaner script used: [cleaner_a.sh](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/cleaner_a.sh)
 - Graph script: [graph_a.R](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/graph_a.R)
 
