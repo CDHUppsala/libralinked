@@ -1,5 +1,5 @@
 # Notes on the graph
-This graph displays the data about the keyword search "Swedish". We kept the empty labels (NA). This graph is to be compared with [Rplot_noNA.pdf](https://gitlab.com/mardub/libralinked/-/blob/f77db8be47d3f7ed0eb6d8422a3d4b8d8d5a1adb/Rplot_noNA.pdf)
+This graph displays the data about the keyword search "Swedish". We kept the empty labels (NA). This graph is to be compared with [Rplot_noNA.md](https://gitlab.com/mardub/libralinked/-/blob/master/Rplot_noNA/Rplot_noNA.md)
 
 ## Properties
 

@@ -1,11 +1,11 @@
 library(igraph)
 library(tidyverse)
-set.seed(12)#Change number here to re-randomize the shape of your graph
+set.seed(11)#Change number here to re-randomize the shape of your graph
 colorise<-function(url)
   ifelse(grepl("manuscript",url,fixed = TRUE),"red",
-         ifelse(grepl("bibliography",url,fixed = TRUE),"grey",
+         ifelse(grepl("bibliography",url,fixed = TRUE),"blue",
                 "orange"))
-read_csv("handrit_swedish_aa_formated.csv")%>%
+read_csv("handrit_swedish_aa_stopword.csv")%>%
   transmute(source=str_to_lower(source),
             target=str_to_lower(target),
             source_label=str_to_lower(source_label),
@@ -19,7 +19,7 @@ bind_rows(transmute(df_edges,name=source,label=source_label),
           group_by(name)%>%
           summarise(actual_label=paste0(unique(label),collapse = " // "))%>%
   #unique()%>%
-  mutate(label=ifelse(rbinom(n(),1,0.1),actual_label,""),color=colorise(name))->df_nodes
+  mutate(label=ifelse(rbinom(n(),1,0.5),actual_label,""),color=colorise(name))->df_nodes
 #read_csv("handrit_swedish_a_formated.csv")%>%
 
 #df_anonymous <- df_edges[3]
