@@ -1,61 +1,78 @@
-Source,label,Target,label
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/org/100005,"TTT: Text till tiden! Medeltida texter i kontext – då och nu"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/org/100004,"Kungliga biblioteket"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/org/100003,"Riksbankens jubileumsfond"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/org/100006,"Kungl. Vitterhets Historie och Antikvitets Akademien"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/person/100474,"Patrik Åström"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/person/100380,"Patrik Granholm"
-"NODE ERROR on the following tag","<persName><!--KOLLA-->Mechtild av Hackeborn (Mechtildis de Hackeborn)</persName>",,
-"NODE ERROR on the following tag","<persName><!--KOLLA-->Mechtild av Hackeborn (Mechtildis de Hackeborn)</persName>",,
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/person/100558,
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/place/100081,Sverige
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/place/100078,Stockholm
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/org/100004,"Kungliga biblioteket"
-"Kungliga biblioteket: A 13",100212.xml,https://www.manuscripta.se/place/100040,"Kungliga biblioteket"
-"Kungliga biblioteket: A 13",100212.xml,A-13_LCI,LCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_LCI,LCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_LCI,LCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_LCI,LCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_LCI,LCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_RCI,RCI
-"Kungliga biblioteket: A 13",100212.xml,A-13_1r,1r
-"Kungliga biblioteket: A 13",100212.xml,A-13_(45v,(45v
-"Kungliga biblioteket: A 13",100212.xml,A-13_1r,1r
-"Kungliga biblioteket: A 13",100212.xml,A-13_95v,95v
-"Kungliga biblioteket: A 13",100212.xml,A-13_97v,97v
-"Kungliga biblioteket: A 13",100212.xml,A-13_20v,20v
-"Kungliga biblioteket: A 13",100212.xml,A-13_42v,42v
-"Kungliga biblioteket: A 13",100212.xml,A-13_48v,48v
-"Kungliga biblioteket: A 13",100212.xml,A-13_88v,88v
-"Kungliga biblioteket: A 13",100212.xml,A-13_1r,1r
-"Kungliga biblioteket: A 13",100212.xml,A-13_49r,49r
-"Kungliga biblioteket: A 13",100212.xml,A-13_1r,1r
-"Kungliga biblioteket: A 13",100212.xml,A-13_49r,49r
-"Kungliga biblioteket: A 13",100212.xml,A-13_113r,113r
-"Kungliga biblioteket: A 13",100212.xml,A-13_ryggen,ryggen
-"Kungliga biblioteket: A 13",100212.xml,A-13_ryggen,ryggen
-"Kungliga biblioteket: A 13",100212.xml,A-13_passim,passim
-"Kungliga biblioteket: A 13",100212.xml,A-13_1r,1r
-"Kungliga biblioteket: A 13",100212.xml,A-13_40v,40v
-"Kungliga biblioteket: A 13",100212.xml,A-13_45v,45v
-"Kungliga biblioteket: A 13",100212.xml,A-13_16r,16r
-"Kungliga biblioteket: A 13",100212.xml,A-13_2r,2r
-"Kungliga biblioteket: A 13",100212.xml,A-13_16r,16r
-"Kungliga biblioteket: A 13",100212.xml,A-13_40v,40v
-"Kungliga biblioteket: A 13",100212.xml,A-13_41v,41v
-"Kungliga biblioteket: A 13",100212.xml,A-13_43v,43v
-"Kungliga biblioteket: A 13",100212.xml,A-13_44v,44v
-"Kungliga biblioteket: A 13",100212.xml,A-13_113r,113r
-"Kungliga biblioteket: A 13",100212.xml,A-13_135r,135r
-"Kungliga biblioteket: A 13",100212.xml,A-13_136r,136r
-"Kungliga biblioteket: A 13",100212.xml,A-13_137r,137r
-"Kungliga biblioteket: A 13",100212.xml,A-13_15r,15r
-"Kungliga biblioteket: A 13",100212.xml,A-13_20v,20v
-"Kungliga biblioteket: A 13",100212.xml,A-13_21r,21r
-"Kungliga biblioteket: A 13",100212.xml,A-13_22v,22v
-"Kungliga biblioteket: A 13",100212.xml,A-13_23r,23r
-"Kungliga biblioteket: A 13",100212.xml,A-13_41r,41r
-"Kungliga biblioteket: A 13",100212.xml,A-13_47r,47r
-"Kungliga biblioteket: A 13",100212.xml,A-13_22r,22r
-"Kungliga biblioteket: A 13",100212.xml,A-13_16r,16r
-"Kungliga biblioteket: A 13",100212.xml,A-13_17v,17v
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100005,TTT: Text till tiden! Medeltida texter i kontext – då och nu
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100004,Kungliga biblioteket
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100003,Riksbankens jubileumsfond
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100006,Kungl. Vitterhets Historie och Antikvitets Akademien
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/person/100474,Patrik Åström
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/person/100380,Patrik Granholm
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/person/100380,Patrik Granholm
+NODE ERROR on the following tag, <persName><!--KOLLA-->Mechtild av Hackeborn (Mechtildis de Hackeborn)</persName>
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/person/100380,Patrik Granholm
+NODE ERROR on the following tag, <persName><!--KOLLA-->Mechtild av Hackeborn (Mechtildis de Hackeborn)</persName>
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/person/100558,
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100081,Sverige
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100078,Stockholm
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100004,Kungliga biblioteket
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100040,Kungliga biblioteket
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100040,Kungliga biblioteket
+NODE ERROR on the following tag, <title>Kungliga biblioteket, A 13</title>
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/bibl/100727,Geete (1899)
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/bibl/101419,Gödel (1916)
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/bibl/101511,Föreningen Granskaren (1972)
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/work/102544,Uppenbarelser
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/work/102556,Fem böner till Kristi uppståndelse (ur Uppenbarelser: bok 1: kapitel 40): variant a
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/bibl/102945,Geete (1899)
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100101,Vadstena
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100081,Sverige
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/place/100101,Vadstena
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100098,Vadstena kloster
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100060,Antikvitetskollegium
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100059,Antikvitetsarkivet
+Kungliga biblioteket: A 13,100212.xml,https://www.manuscripta.se/org/100004,Stockholm: Kungliga biblioteket
+line73
+Kungliga biblioteket: A 13,100212.xml,A-13__LCI_LCI,LCI
+Kungliga biblioteket: A 13,100212.xml,A-13__LCI_LCI,LCI
+Kungliga biblioteket: A 13,100212.xml,A-13__LCI_LCI,LCI
+Kungliga biblioteket: A 13,100212.xml,A-13__LCI_LCI,LCI
+Kungliga biblioteket: A 13,100212.xml,A-13__LCI_LCI,LCI
+Kungliga biblioteket: A 13,100212.xml,A-13__RCI_RCI,RCI
+Kungliga biblioteket: A 13,100212.xml,A-13__1r_161v,1r
+Kungliga biblioteket: A 13,100212.xml,A-13__(45v_46v),(45v
+Kungliga biblioteket: A 13,100212.xml,A-13__1r_161v,1r
+Kungliga biblioteket: A 13,100212.xml,A-13__95v_95v,95v
+Kungliga biblioteket: A 13,100212.xml,A-13__97v_97v,97v
+Kungliga biblioteket: A 13,100212.xml,A-13__20v_20v,20v
+Kungliga biblioteket: A 13,100212.xml,A-13__42v_42v,42v
+Kungliga biblioteket: A 13,100212.xml,A-13__48v_48v,48v
+Kungliga biblioteket: A 13,100212.xml,A-13__88v_88v,88v
+Kungliga biblioteket: A 13,100212.xml,A-13__1r_161v,1r
+Kungliga biblioteket: A 13,100212.xml,A-13__49r_112v,49r
+Kungliga biblioteket: A 13,100212.xml,A-13__1r_48v,1r
+Kungliga biblioteket: A 13,100212.xml,A-13__49r_112v,49r
+Kungliga biblioteket: A 13,100212.xml,A-13__113r_116v,113r
+Kungliga biblioteket: A 13,100212.xml,A-13__ryggen_ryggen,ryggen
+Kungliga biblioteket: A 13,100212.xml,A-13__ryggen_ryggen,ryggen
+Kungliga biblioteket: A 13,100212.xml,A-13__passim_passim,passim
+Kungliga biblioteket: A 13,100212.xml,A-13__1r_1r,1r
+Kungliga biblioteket: A 13,100212.xml,A-13__40v_40v,40v
+Kungliga biblioteket: A 13,100212.xml,A-13__45v_45v,45v
+Kungliga biblioteket: A 13,100212.xml,A-13__16r_16r,16r
+Kungliga biblioteket: A 13,100212.xml,A-13__2r_6r,2r
+Kungliga biblioteket: A 13,100212.xml,A-13__16r_16r,16r
+Kungliga biblioteket: A 13,100212.xml,A-13__40v_40v,40v
+Kungliga biblioteket: A 13,100212.xml,A-13__41v_41v,41v
+Kungliga biblioteket: A 13,100212.xml,A-13__43v_43v,43v
+Kungliga biblioteket: A 13,100212.xml,A-13__44v_44v,44v
+Kungliga biblioteket: A 13,100212.xml,A-13__113r_113r,113r
+Kungliga biblioteket: A 13,100212.xml,A-13__135r_135r,135r
+Kungliga biblioteket: A 13,100212.xml,A-13__136r_136r,136r
+Kungliga biblioteket: A 13,100212.xml,A-13__137r_137r,137r
+Kungliga biblioteket: A 13,100212.xml,A-13__15r_15r,15r
+Kungliga biblioteket: A 13,100212.xml,A-13__20v_20v,20v
+Kungliga biblioteket: A 13,100212.xml,A-13__21r_21r,21r
+Kungliga biblioteket: A 13,100212.xml,A-13__22v_22v,22v
+Kungliga biblioteket: A 13,100212.xml,A-13__23r_23r,23r
+Kungliga biblioteket: A 13,100212.xml,A-13__41r_41r,41r
+Kungliga biblioteket: A 13,100212.xml,A-13__47r_47r,47r
+Kungliga biblioteket: A 13,100212.xml,A-13__22r_22r,22r
+Kungliga biblioteket: A 13,100212.xml,A-13__16r_16r,16r
+Kungliga biblioteket: A 13,100212.xml,A-13__17v_17v,17v
