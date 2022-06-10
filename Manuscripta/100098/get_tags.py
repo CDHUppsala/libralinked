@@ -56,18 +56,22 @@ def make_raw_locus(node,attributes,manu_id=manu_id):
 for entity in entities:
     for node in entity:
         try:
+            
             raw=clean(title)+"SEPARATOR"+file_name.split("/")[-1]+"SEPARATOR"+node['ref']+"SEPARATOR"+clean(node.get_text())
             raw=remove_commas(raw)
             raw=raw.replace("SEPARATOR",",")
+
             print(raw)
+
         except:
             try:
+
                 raw=clean(title)+"SEPARATOR"+file_name.split("/")[-1]+"SEPARATOR"+node['target']+"SEPARATOR"+clean(node.get_text())
                 raw=remove_commas(raw)
                 raw=raw.replace("SEPARATOR",",")
-                print(raw)#this line was added in june 2022 !
+                print(raw)
             except:
-                #print(raw)#this line was removed in june 2022 !
+                #print(raw+" bruel bruel")
                 print("NODE ERROR on the following tag,",node)
 #Handling the exceptions of Locus
 entity= soup.find_all('locus')

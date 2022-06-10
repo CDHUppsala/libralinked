@@ -7,10 +7,7 @@ Note: Before running this script make sure you have the last version of the manu
 #Get the list of only the *.xml files that contain the attribute "non-swe"
 
 MULTILINE-COMMENT
-find . -type f -wholename './data/data/msDescs/*.xml' -exec sh -c '
-     sh non-swe.sh "$1" |
-     grep "true"' sh {} ';' -print > temp
-grep -v "true" temp > non-swe_files.txt 
+echo '../data/data/id/org/100098.xml' > file_list.txt 
 
 
 echo "" > data.csv
@@ -18,7 +15,7 @@ echo "" > data.csv
 #Look in all the non-swe_files xml files
 #Run the get_tags.py on all of the xml files
 
-cat non-swe_files.txt | while read filexml
+cat file_list.txt | while read filexml
 do
 	python3 get_tags.py $filexml
 done > data.csv
