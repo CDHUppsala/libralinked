@@ -1,0 +1,394 @@
+source,label_s,target,label_t
+
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100201,A 1
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100202,A 2
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100203,A 3
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100204,A 4
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100205,A 5 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100206,A 5 b
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100207,A 5 c
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100208,A 8
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100209,A 9
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100210,A 10
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100211,A 12
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100212,A 13
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100213,A 22 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100214,A 24
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100215,A 27
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100218,A 33
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100219,A 34
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100220,A 36
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100221,A 37
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100222,A 38
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100223,A 43
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100224,A 44
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100225,A 49
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100226,A 54
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100227,A 57
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100228,A 58
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100229,A 61
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100230,A 62
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100231,A 62 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100232,A 65
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100234,A 80
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100235,A 81
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100236,A 82
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100237,A 82 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100521,A 107
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100239,A 108
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100240,A 110
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100241,A 111
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100242,A 114
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100243,A 115
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100244,A 116
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100245,A 117
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100246,A 118
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100247,A 119
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100248,A 120
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100249,A 122
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100250,A 123
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100251,A 124
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100253,B 1
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100254,B 2
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100255,B 3
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100256,B 4
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100257,B 5 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100258,B 5 b
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100259,B 6
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100260,B 7
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100261,B 8
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100262,B 9
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100263,B 10
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100264,B 11
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100265,B 12
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100266,B 13
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100267,B 14
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100268,B 15
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100269,B 16
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100270,B 17
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100272,B 19
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100273,B 22
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100275,B 23 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100276,B 24
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100277,B 32
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100278,B 33
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100279,B 34
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100280,B 35
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100281,B 36
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100282,B 40
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100283,B 42
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100284,B 44
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100285,B 45
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100286,B 46
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100287,B 47
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100288,B 48
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100289,B 49
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100290,B 50
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100291,B 52
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100292,B 53
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100293,B 54
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100294,B 55
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100295,B 56
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100296,B 57
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100297,B 58
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100298,B 59
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100299,B 92 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100300,B 107
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100301,B 108
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100302,B 112
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100303,B 120
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100304,B 123
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100305,B 124
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100306,B 125
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100307,B 126
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100308,B 127
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100309,B 127 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100310,B 134
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100311,B 137
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100312,B 149
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100313,B 151
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100314,B 152
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100315,B 154
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100316,B 155
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100317,B 161
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100318,B 162
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100319,B 168
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100320,B 170
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100321,B 172
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100322,B 173
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100323,B 175
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100324,B 176
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100325,B 179 [1]
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100326,B 179 [2]
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100327,B 179 [3]
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100328,B 179 [4]
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100329,B 181
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100330,B 185
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100331,B 186
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100332,B 193
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100333,B 196
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100334,B 199
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100335,B 200
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100336,B 201
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100337,B 202
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100339,B 588
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100340,B 589
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100342,B 594
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100344,B 601
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100345,B 607
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100346,D 2
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100347,D 3
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100350,D 4 a
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100354,Rålamb 11__ 12:o
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100355,Rålamb 14__ 4:o
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100356,X 23
+https://www.manuscripta.se/org/100004,National Library of Sweden,../ms/100358,X 502
+https://www.manuscripta.se/org/100051,Paris__ Bibliothèque Royale [de France],../ms/100240,A 110
+https://www.manuscripta.se/org/100053,Brahiska och Wrangelska Manuscriptsamlingen Skokloster,../ms/100322,B 173
+https://www.manuscripta.se/org/100054,Säby fidekommiss__ Aspö socken__ Lagnö,../ms/100566,Rogge Wrangel
+https://www.manuscripta.se/org/100055,Strängnäs__ Roggebiblioteket (Kungl. biblioteket),../ms/100566,Rogge Wrangel
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100201,A 1
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100202,A 2
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100203,A 3
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100204,A 4
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100205,A 5 a
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100206,A 5 b
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100207,A 5 c
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100208,A 8
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100209,A 9
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100210,A 10
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100211,A 12
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100212,A 13
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100213,A 22 a
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100214,A 24
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100215,A 27
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100218,A 33
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100219,A 34
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100220,A 36
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100221,A 37
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100222,A 38
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100223,A 43
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100224,A 44
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100225,A 49
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100227,A 57
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100228,A 58
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100229,A 61
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100253,B 1
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100254,B 2
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100255,B 3
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100256,B 4
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100257,B 5 a
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100258,B 5 b
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100259,B 6
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100260,B 7
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100261,B 8
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100262,B 9
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100263,B 10
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100264,B 11
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100265,B 12
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100266,B 13
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100267,B 14
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100268,B 15
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100269,B 16
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100270,B 17
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100272,B 19
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100273,B 22
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100274,B 23
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100276,B 24
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100278,B 33
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100279,B 34
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100280,B 35
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100281,B 36
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100282,B 40
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100283,B 42
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100284,B 44
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100285,B 45
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100287,B 47
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100288,B 48
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100289,B 49
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100290,B 50
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100291,B 52
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100292,B 53
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100293,B 54
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100294,B 55
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100295,B 56
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100296,B 57
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100297,B 58
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100298,B 59
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100299,B 92 a
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100339,B 588
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100346,D 2
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100347,D 3
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100348,D 3 a
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,../ms/100349,D 4
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100201,A 1
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100202,A 2
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100203,A 3
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100204,A 4
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100208,A 8
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100209,A 9
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100210,A 10
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100211,A 12
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100212,A 13
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100213,A 22 a
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100214,A 24
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100215,A 27
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100218,A 33
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100219,A 34
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100221,A 37
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100222,A 38
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100223,A 43
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100225,A 49
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100256,B 4
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100264,B 11
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100285,B 45
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100294,B 55
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100298,B 59
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,../ms/100346,D 2
+https://www.manuscripta.se/org/100061,Arboga rådhusarkiv,../ms/100330,B 185
+https://www.manuscripta.se/org/100064,Stockholm__ Franciskanerkonventet,../ms/100521,A 107
+https://www.manuscripta.se/org/100064,Stockholm__ Franciskanerkonventet,../ms/100423,C 62
+https://www.manuscripta.se/org/100065,Gille i Gärds härad,../ms/100421,C 56
+https://www.manuscripta.se/org/100066,Stockholm__ Guldsmedsämbetet,../ms/100343,B 597
+https://www.manuscripta.se/org/100068,Hälsninglands underlagmansdöme,../ms/100363,B 10
+https://www.manuscripta.se/org/100071,Kalmar gymnasium,../ms/100321,B 172
+https://www.manuscripta.se/org/100072,Kammarkollegium,../ms/100333,B 196
+https://www.manuscripta.se/org/100072,Kammarkollegium,../ms/100337,B 202
+https://www.manuscripta.se/org/100075,Köpenhamn__ Kongelige bibliotek,../ms/100275,B 23 a
+https://www.manuscripta.se/org/100079,Stockholm__ Murmästareämbetet,../ms/100344,B 601
+https://www.manuscripta.se/org/100080,Oslo__ Norska Riksarkivet,../ms/100332,B 193
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100201,A 1
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100202,A 2
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100203,A 3
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100204,A 4
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100208,A 8
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100209,A 9
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100210,A 10
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100213,A 22 a
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100214,A 24
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100215,A 27
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100236,A 82
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100239,A 108
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100260,B 7
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100280,B 35
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100293,B 54
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100316,B 155
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100317,B 161
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100346,D 2
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,../ms/100347,D 3
+https://www.manuscripta.se/org/100084,Reval__ Ritter- und Domschule,../ms/100358,X 502
+https://www.manuscripta.se/org/100085,Stockholm__ Skräddarämbetet,../ms/100345,B 607
+https://www.manuscripta.se/org/100088,Stockholm__ Stockholms rådhusarkiv,../ms/100315,B 154
+https://www.manuscripta.se/org/100088,Stockholm__ Stockholms rådhusarkiv,../ms/100342,B 594
+https://www.manuscripta.se/org/100089,Strö fidekommiss (biblioteket),../ms/100355,Rålamb 14__ 4:o
+https://www.manuscripta.se/org/100090,Sundals och Valbo härad (?),../ms/100263,B 10
+https://www.manuscripta.se/org/100091,Svenska akademien,../ms/100319,B 168
+https://www.manuscripta.se/org/100093,Söderköpings rådhusarkiv,../ms/100320,B 170
+https://www.manuscripta.se/org/100094,Tidö slott,../ms/100308,B 127
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100359,B 5
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100360,B 6
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100362,B 9
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100363,B 10
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100364,B 12
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100365,B 13
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100366,B 16
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100367,B 18
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100368,B 20
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100369,B 21
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100379,B 23
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100380,B 25
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100382,B 28
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100383,B 33
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100384,B 34
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100386,B 36
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100387,B 37
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100388,B 39
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100390,B 45
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100391,B 48
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100392,B 49
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100393,B 50
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100394,B 52
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100395,B 55
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100396,B 61
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100397,B 62
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100398,B 67
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100399,B 68
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100400,B 69
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100401,B 70
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100402,B 71
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,../ms/100403,B 82
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100201,A 1
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100202,A 2
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100203,A 3
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100204,A 4
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100206,A 5 b
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100207,A 5 c
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100208,A 8
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100209,A 9
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100210,A 10
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100212,A 13
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100213,A 22 a
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100214,A 24
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100215,A 27
+https://www.manuscripta.se/org/100098,Vadstena kloster,../ms/100240,A 110
+https://www.manuscripta.se/org/100100,Varnhems kloster (?),../ms/100368,B 20
+https://www.manuscripta.se/org/100101,Viby (härad),../ms/100388,B 39
+https://www.manuscripta.se/org/100103,Åbo domkyrka,../ms/100225,A 49
+https://www.manuscripta.se/org/100103,Åbo domkyrka,../ms/100228,A 58
+https://www.manuscripta.se/org/100104,Ängsö fidekommiss,../ms/100239,A 108
+https://www.manuscripta.se/org/100104,Ängsö fidekommiss,../ms/100390,B 45
+https://www.manuscripta.se/org/100104,Ängsö fidekommiss,../ms/100403,B 82
+https://www.manuscripta.se/org/100112,Nådendals kloster,../ms/100225,A 49
+https://www.manuscripta.se/org/100112,Nådendals kloster,../ms/100228,A 58
+https://www.manuscripta.se/org/100113,Röks kyrka,../ms/100234,A 80
+https://www.manuscripta.se/org/100114,Stockholms stads konsistorium,../ms/100521,A 107
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100242,A 114
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100243,A 115
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100245,A 117
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100250,A 123
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100251,A 124
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,../ms/100333,B 196
+https://www.manuscripta.se/org/100119,Stockholm__ Vindragarämbetet,../ms/100342,B 594
+https://www.manuscripta.se/org/100121,Thulins antikvariat,../ms/100237,A 82 a
+https://www.manuscripta.se/org/100003,Riksbankens jubileumsfond – The Swedish Foundation for Humanities and Social Sciences,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100004,National Library of Sweden,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100005,TTT: Text till tiden! Medeltida texter i kontext – då och nu,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100006,Kungl. Vitterhets Historie och Antikvitets Akademien,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100011,Uppsala University,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100051,Paris__ Bibliothèque Royale [de France],https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100053,Brahiska och Wrangelska Manuscriptsamlingen Skokloster,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100054,Säby fidekommiss__ Aspö socken__ Lagnö,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100055,Strängnäs__ Roggebiblioteket (Kungl. biblioteket),https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100059,Antikvitetsarkivet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100060,Antikvitetskollegium,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100061,Arboga rådhusarkiv,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100064,Stockholm__ Franciskanerkonventet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100065,Gille i Gärds härad,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100066,Stockholm__ Guldsmedsämbetet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100068,Hälsninglands underlagmansdöme,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100071,Kalmar gymnasium,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100072,Kammarkollegium,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100075,Köpenhamn__ Kongelige bibliotek,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100079,Stockholm__ Murmästareämbetet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100080,Oslo__ Norska Riksarkivet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100083,Stockholm__ Riksarkivet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100084,Reval__ Ritter- und Domschule,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100085,Stockholm__ Skräddarämbetet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100088,Stockholm__ Stockholms rådhusarkiv,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100089,Strö fidekommiss (biblioteket),https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100090,Sundals och Valbo härad (?),https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100091,Svenska akademien,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100093,Söderköpings rådhusarkiv,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100094,Tidö slott,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100097,Uppsala Universitetsbibliotek,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100098,Vadstena kloster,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100100,Varnhems kloster (?),https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100101,Viby (härad),https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100103,Åbo domkyrka,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100104,Ängsö fidekommiss,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100112,Nådendals kloster,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100113,Röks kyrka,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100114,Stockholms stads konsistorium,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100116,Stockholm__ Riksarkivet: Kammararkivet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100119,Stockholm__ Vindragarämbetet,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
+https://www.manuscripta.se/org/100121,Thulins antikvariat,https://creativecommons.org/publicdomain/zero/1.0/,CC0 1.0 Universal
