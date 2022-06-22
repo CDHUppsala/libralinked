@@ -2,7 +2,8 @@
 
 - Name: [graph_place_manuscripts.pdf](graph_place_manuscripts.pdf)
 - Data: [place_manuscripts.csv](place_manuscripts.csv)
-- Name: [place_manuscripts.html](place_manuscripts.html)
+- Name: [place_manuscripts.html](place_manuscripts.html) and interactive version [here](
+https://mardub.gitlab.io/libralinked/place_manuscripts.html )
 - Data: [place_manuscripts.csv](place_manuscripts.csv)
 
 # Description
