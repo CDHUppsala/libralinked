@@ -4,9 +4,8 @@
 - Data: [org_manuscripts_nolicence.csv](org_manuscripts_nolicence.csv)
 - Name: [graph_org_manuscripts-nicely.pdf](graph_org_manuscripts-nicely.pdf) and [graph_org_manuscripts-component.pdf](graph_org_manuscripts-component.pdf)
 - Data: [org_manuscripts.csv](org_manuscripts.csv)
-org_withLicence.pdf
 - Name: [graph_org_withLicence.pdf](graph_org_withLicence.pdf)
-- Data: [org_withLicence.csv](org_withLicence.csv)
+git - Data: [org_withLicence.csv](org_withLicence.csv)
 
 # Description
 These graphs are variations based on the same scrape file: [org_html.csv](org_html.csv) we applied different cleaning to them such as removing  the licence etc.
