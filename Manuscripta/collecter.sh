@@ -12,13 +12,15 @@ find . -type f -wholename './data/data/msDescs/*.xml' -exec sh -c '
      grep "true"' sh {} ';' -print > temp
 grep -v "true" temp > non-swe_files.txt 
 
+sort -u non-swe_files.txt > non-swe_files-u.txt #line added for second experiment 16th june 2022
+
 
 echo "" > data.csv
 
 #Look in all the non-swe_files xml files
 #Run the get_tags.py on all of the xml files
 
-cat non-swe_files.txt | while read filexml
+cat non-swe_files-u.txt | while read filexml
 do
 	python3 get_tags.py $filexml
 done > data.csv
