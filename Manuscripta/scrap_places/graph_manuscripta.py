@@ -4,7 +4,7 @@ import pandas as pd
 got_net = Network(height='750px', width='100%', bgcolor='#222222', font_color='white',heading="Graphic of manuscripts according to places (Manuscripta)")
 
 # set the physics layout of the network
-got_net.barnes_hut()
+got_net.repulsion()
 """Open place_html.csv and read it into a dataframe"""
 got_data = pd.read_csv('place_manuscripts.csv')
 
@@ -46,8 +46,8 @@ for e in edge_data:
         color_t="green"
         """
         
-    got_net.add_node(src, label=lab_s, color=color_s, title=lab_s, size=150)
-    got_net.add_node(dst, label=lab_t, color=color_t, title=lab_t,size=150 )
+    got_net.add_node(src, label=lab_s, color=color_s, title=lab_s)
+    got_net.add_node(dst, label=lab_t, color=color_t, title=lab_t )
     got_net.add_edge(src, dst)
 
 
@@ -60,6 +60,6 @@ for key in node_data:
     got_net.add_node(key, **node_data[key], shape="dot",title=node_data[key]['label'])
 """
 neighbor_map = got_net.get_adj_list()
-got_net.show_buttons(filter_=['physics','nodes'])
+got_net.show_buttons(filter_=['physics'])
 got_net.show('place_manuscripts.html')
 
